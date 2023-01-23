@@ -1,10 +1,7 @@
-table{
+.table{
 
-  width: 50%;
   border: 1px solid black;
   margin-left: 50px;
-
-
 }
 mat-header-cell{
   border: 1px solid black;
